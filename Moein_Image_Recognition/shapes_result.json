@@ -1,0 +1,12 @@
+[
+    {
+        "id": 0,
+        "type": "Rectangle",
+        "area": 382721.0,
+        "perimeter": 2556.0,
+        "centroid": [
+            239,
+            399
+        ]
+    }
+]
